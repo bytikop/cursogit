@@ -1,0 +1,12 @@
+header nav ul li
+{
+	background: peru;
+}
+border-image: 
+{
+	border-radius: 100px;
+	float: right;
+	margin-top: -150px;
+	width: 100px; 
+
+}

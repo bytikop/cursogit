@@ -1,0 +1,11 @@
+commit 1bc0540034cb146628d06fe838dd336f54f86ee9
+Author: Edgar Dominguez <LABORATORIOMAC@iMac-de-CCDM09.local>
+Date:   Fri Mar 13 10:44:03 2015 -0700
+
+    Encabezado y menu
+
+commit 97ddfad3aa579f84247acb7c65f9a433351e3dcb
+Author: CCDM09 <LABORATORIOMAC@iMac-de-CCDM09.local>
+Date:   Fri Mar 13 10:37:45 2015 -0700
+
+    Estructura inicial
